@@ -1,2 +1,2 @@
 # Nordic-Weather-Station
-Nordic microcontroller-based weather monitoring system using multiple sensors and algorithms for weather data analysis and prediction.
+Development of a weather monitoring system based on a Nordic microcontroller and multiple sensors. The system collects measurements such as temperature, humidity, air pressure, wind speed and water-related data, which are processed by the microcontroller. All the information will be displayed via Bluetooth or WIFI on the phone app, which i will developed myself. The project also includes the development of algorithms for analysing the collected data and predicting weather conditions. The project is currently in development.
